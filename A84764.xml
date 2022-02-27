@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from his Excellency Sir Thomas Fairfax, sent to both Houses of Parliament June the 6. concerning the Kings being brought from Holmby towards the Army with all the perticulers about the same. Wherein is set forth to all the world the cleare and candid intentions of his Excellency and the whole Army, for the good of the Parliament and kingdome, in their restlesse endeavours, for a sure and lasting true peace. Published to silence the many false reports already raised, and to prevent the like for the future,</title>
+            <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84764</idno>
+            <idno type="STC">Wing F172</idno>
+            <idno type="STC">Thomason E391_7</idno>
+            <idno type="STC">ESTC R201551</idno>
+            <idno type="EEBO-CITATION">99862050</idno>
+            <idno type="PROQUEST">99862050</idno>
+            <idno type="VID">160263</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84764)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160263)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E391[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from his Excellency Sir Thomas Fairfax, sent to both Houses of Parliament June the 6. concerning the Kings being brought from Holmby towards the Army with all the perticulers about the same. Wherein is set forth to all the world the cleare and candid intentions of his Excellency and the whole Army, for the good of the Parliament and kingdome, in their restlesse endeavours, for a sure and lasting true peace. Published to silence the many false reports already raised, and to prevent the like for the future,</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Whittington at the blew Anchor in Corne-hill, neere the royall Exchange.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Annotation on Thomason copy: "June 8th 1647".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160263:1" rendition="simple:additions"/>
+            <p>A LETTER From his Excellency Sir Thomas Fairfax, SENT To both Houſes of Parliament June the 6. concerning the KINGS being brought from <hi>Holmby</hi> towards the Army with all the perticulers about the ſame.</p>
+            <p>Wherein is ſet forth to all the world the cleare and candid intentions of his Excellency and the whole Army, for the good of the Parliament and Kingdome, in their reſtleſſe endea<g ref="char:EOLhyphen"/>vours, for a ſure and laſting true Peace.</p>
+            <p>Publiſhed to ſilence the many falſe reports already raiſed, and to prevent the like for the future,</p>
+            <p>
+               <add>June 8<hi rend="sup">th</hi>
+               </add> LONDON <hi>Printed for George Whittington at the blew Anchor in Corne-hill, neere the royall Exchange.</hi> 
+               <add>1647</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:160263:2"/>
+            <pb facs="tcp:160263:2"/>
+            <head>
+               <hi>A</hi> Letter from his Excellencie Sir Thomas Fairfax, ſent to both Houſes of Parlia<g ref="char:EOLhyphen"/>ment, concerning the Kings being brought from Holdenby towards the Army.</head>
+            <opener>
+               <salute>Mr. Speaker,</salute>
+            </opener>
+            <p>BY my laſt of Fryday the 4. inſtant, I gave you ac<g ref="char:EOLhyphen"/>count of what I underſtood from Holmby concer<g ref="char:EOLhyphen"/>ning the undertaking of ſome Souldiers on Wedneſday laſt to ſecure the King from being ſecretly conveyed a<g ref="char:EOLhyphen"/>way, and that Col. Graves being therupon ſecretly ſlipt away, I had ſent Col. Whalley with his Regiment to attend the Comiſſioners, and take charge of the guards
+<pb facs="tcp:160263:3"/>there. On Satturday morning being at a Randezvouze beyond Newmarket, and advancing the Army this way in order quarter about Cambridge, I received ad<g ref="char:EOLhyphen"/>vertiſement, That the Souldiers of Holmby had upon Fryday morning (with his Majeſties conſent) brought him away from thence, together with your Commiſſi<g ref="char:EOLhyphen"/>oners. That they lay at Hinchingbrook neare Hunting<g ref="char:EOLhyphen"/>don on Friday night, and would bee at Newmarket that day; The ground of this remove was alleadged to be an apprehenſion in the Souldiers, of ſome Forces ga<g ref="char:EOLhyphen"/>thering towards that place ſuddenly to fall upon them and force the King out of their hands, to withſtand which, they thought they might be too weake (having then no notice of Col. Whaleyes coming with his Re<g ref="char:EOLhyphen"/>giment) upon this immediatly I ſent after C. Whaley to advertiſe him thereof, with order to direct his courſe towards Huntingdon, and (where ere he met his Maje<g ref="char:EOLhyphen"/>ſty and the Commiſſioners) to deſire, that they would come on no further this way, but rather to returne, and ſuffer him to guard them back.</p>
+            <p>And to prevent any danger imaginable therein, I ſent off from the Rendezvouze two Regiments of Horſe more, to march after Col. Whalley towards Hunting<g ref="char:EOLhyphen"/>don, and ſo on towards Holdenby, to be aſſiſtant to him in the Guards about his Majeſty if it ſhould bee found needfull.</p>
+            <p>And thus I held on the motion of the reſt of the Ar<g ref="char:EOLhyphen"/>my this way.</p>
+            <p>Towards Evening (after the Quarters of the Armie were aſſigned, and taken up hereabouts, and the Regi<g ref="char:EOLhyphen"/>ments marching off towards their ſeverall Quarters, I underſtood from Colonel Whalley, that meeting the
+<pb facs="tcp:160263:3"/>King and your Commiſſioners upon their way from Huntington towards Newmarket, about foure miles ſhort of Cambridge, they had forborn to come on any further; but his Majeſtie being not willing to returne back for <hi>Holmby,</hi> they had taken up his Quarter for pre<g ref="char:EOLhyphen"/>ſent at Sir <hi>Iohn Cuts</hi> houſe at <hi>Childerley,</hi> being the next houſe of any conveniencie to the place where hee met them.</p>
+            <p>Hereupon I ſent thither Sir <hi>Hardres Waller,</hi> and Col. <hi>Lambert,</hi> to informe the Commiſſioners of my coming to <hi>Cambridge,</hi> and the Armies quartering hereabouts, &amp; to deſire, that they would think of returning backe with his Majeſtie to <hi>Holdenby,</hi> and (becauſe there might be many inconveniencies in delay) that they would not make any ſtay where they were, but remove backe that way next morning (though it were the Lords Day) the Commiſſioners refuſed to act or meddle any otherwiſe in diſpoſing the King, then by their Anſwer to mee, (whereof I have ſent you a Copie here incloſed) you ſee. And his Majeſtie declares himſelfe very anwilling to go back to <hi>Holmby.</hi> I have thus given you a true and faithfull account, how his Majeſtie came to the place where he is, and how the Quarters of the Army have fallen out to be ſo neare him.</p>
+            <p>what ever (by the concurrence of events to make it thus) may be ſuſpected of deſigne therein. This is the exact truth of the buſineſſe, and I can clearly profeſſe, (as in the preſence of God) for my ſelfe, and dare be confident of the ſame for all the Officers about me, and body of the Army, that this remove of his Majeſtie from <hi>Holmby</hi> was without any deſigne, knowledge, or privity thereof on our parts, and a thing altogether un<g ref="char:EOLhyphen"/>expected
+<pb facs="tcp:160263:4"/>to us untill the notice of it came upon the Ran<g ref="char:EOLhyphen"/>dezvouz as before; neither the Randezvouz or coming hither to quarter with the Army from any purpoſe, or with any expectation to be ſo neere His Maj. as it hap<g ref="char:EOLhyphen"/>pens. But the effect is ſo farr meerly providentiall, and (to us) accidentall, but the caſe being as it is (your Commiſſioners refuſing to intermeddle as before, and the King to go back) I have placed and ſhall continue a<g ref="char:EOLhyphen"/>bout his Majeſty ſuch a Guard of truſty men, and un<g ref="char:EOLhyphen"/>der ſuch Command, Collonel <hi>Whalley</hi> being chiefe in the charge) as I may be reſponſall for to the Parliament and Kingdome, (ſo farre as can reaſonably be expected from me) by the bleſſing of God to ſecure his Majeſties perſon from danger, and prevent any attempts of ſuch as may deſigne, (by that advantage of his Perſon) the beſt to raiſe any new warre in this Kingdome. And tru<g ref="char:EOLhyphen"/>ly (Sir,) to prevent any ſuch miſchiefe as it is my owne moſt earneſt and humble deſire, ſo I finde it to be the unanimous deſire and ſtudy of the Army, that a firme peace in this Kingdome may be ſetled, and the liberties of the people cleared and ſe<g ref="char:EOLhyphen"/>cured accordingly, to the many Declarations by which we were invited and induced to ingage in the late war: and the Parliaments effectuall and ſpeedy application to theſe two things (I find) would conduce more fully and ſurely to a chearefull and unanimous disbanding; And yet (what ever may be ſuggeſted or ſuſpected) I do certainly find (and dare aſſure you, you may depend upon it) That the ſence of the Army is moſt cleer from any purpoſe, or inclination, to oppoſe the ſetling of Presbyterie, or to have the Independant Government
+<pb facs="tcp:160263:4"/>ſet up, or to up-hold a licentiouſneſſe in Religion, or to meddle with any ſuch thing to the advancement of a<g ref="char:EOLhyphen"/>ny particular party or intereſt whatſoever, but to leave all ſuch particular matters to the wiſdome of the Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p>I ſhall by the next ſend you a full Account of the proceeding and unanimous reſolutions of the Army at the late Randezvouze (being not at preſent prepared ſo fully to do it as is fit) The letter from both Houſes I have received but this night, the Quarters of the Army being lately altered before, will make the Heath neere Newmarket leſſe convenient for a Randezvouze, yet I ſhall take order (according to the deſire of the Houſes) to have a Randezvouze either there or nor fame of on Wedneſday next, I remain</p>
+            <closer>
+               <signed>Your moſt humble and faithful ſervant, <hi>FAIRFAX.</hi>
+               </signed>
+               <dateline>Cambridge <date>June 6. 1647.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <pb facs="tcp:160263:5"/>
+               <head>POSTSCRIPT.</head>
+               <p>
+                  <hi>I</hi> Shal according to my duty, and the de<g ref="char:EOLhyphen"/>ſires of the Houſes, doe my utmoſt to keepe the Army in good order, to which <hi>I</hi> find it abſolutely neceſsary, that there bee ſome pay preſently ſent down.</p>
+            </postscript>
+            <trailer>For the Honourable <hi>William Lenthal</hi> Eſq; Speaker of the honourable Houſe of Commons.</trailer>
+            <trailer>It was deſired by his Excellencie this Letter might bee communicated to both Houſes.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
